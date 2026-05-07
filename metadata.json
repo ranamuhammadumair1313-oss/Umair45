@@ -1,0 +1,6 @@
+{
+  "name": "Umair Studio Share",
+  "description": "Futuristic peer-to-peer file sharing app with neon-dark UI, featuring high-speed transfers and P2P connectivity.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["P2P File Sharing", "QR Discovery", "Local Network Transfer"]
+}
